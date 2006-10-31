@@ -1,12 +1,12 @@
 [Desktop Entry]
-Comment[de]=Persönliche und Systemweite Einstellungen für KANOTIX
-Comment[ch]=Persönliche und Systemweite Einstellungen für KANOTIX
-Comment[at]=Persönliche und Systemweite Einstellungen für KANOTIX
+Comment[de]=PersÃ¶nliche und Systemweite Einstellungen fÃ¼r KANOTIX
+Comment[ch]=PersÃ¶nliche und Systemweite Einstellungen fÃ¼r KANOTIX
+Comment[at]=PersÃ¶nliche und Systemweite Einstellungen fÃ¼r KANOTIX
 Comment[es]=Configuraciones personales y del sistema para KANOTIX
 Comment=Personal and system-wide configurations for KANOTIX
 Icon=kanotix.png
 Name[de]=Konfiguration
 Name[ch]=Konfiguration
 Name[at]=Konfiguration
-Name[es]=Configuración
+Name[es]=ConfiguraciÃ³n
 Name=Configure
