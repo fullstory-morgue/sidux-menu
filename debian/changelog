@@ -1,8 +1,9 @@
 kanotix-menu (0.1.7) UNRELEASED; urgency=low
 
   * NOT RELEASED YET
+  * remove bogus debian/dirs.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed,  1 Nov 2006 00:18:56 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 19 Nov 2006 00:27:18 +0100
 
 kanotix-menu (0.1.6) unstable; urgency=low
 
