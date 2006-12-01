@@ -1,13 +1,13 @@
-Source: kanotix-menu
+Source: sidux-menu
 Section: x11
 Priority: optional
 Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
 Build-Depends: cdbs (>= 0.4.23-1.1), debhelper (>= 5.0.0)
 Standards-Version: 3.7.2
 
-Package: kanotix-menu
+Package: sidux-menu
 Architecture: all
 Depends: ${shlibs:Depends}
-Conflicts: kanotix-graphics (<< 0.2+BHX-1)
-Description: Menu skeletons for the KANOTIX menu
- Menu structure and icons for the XDG Kanotix menu.
+Conflicts: kanotix-graphics, kanotix-menu
+Description: Menu skeletons for the sidux menu
+ Menu structure and icons for the XDG sidux menu.
