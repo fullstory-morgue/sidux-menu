@@ -1,10 +1,10 @@
 [Desktop Entry]
-Comment[de]=Persönliche und Systemweite Einstellungen für KANOTIX
-Comment[ch]=Persönliche und Systemweite Einstellungen für KANOTIX
-Comment[at]=Persönliche und Systemweite Einstellungen für KANOTIX
-Comment[es]=Configuraciones personales y del sistema para KANOTIX
-Comment=Personal and system-wide configurations for KANOTIX
-Icon=kanotix.png
+Comment[de]=Persönliche und Systemweite Einstellungen für sidux
+Comment[ch]=Persönliche und Systemweite Einstellungen für sidux
+Comment[at]=Persönliche und Systemweite Einstellungen für sidux
+Comment[es]=Configuraciones personales y del sistema para sidux
+Comment=Personal and system-wide configurations for sidux
+Icon=sidux.png
 Name[de]=Konfiguration
 Name[ch]=Konfiguration
 Name[at]=Konfiguration
