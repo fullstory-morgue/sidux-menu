@@ -1,11 +1,13 @@
-sidux-menu (0.1.7) UNRELEASED; urgency=low
+sidux-menu (0.1.7) unstable; urgency=low
 
-  * NOT RELEASED YET
+  [ Joaquim Boura ]
   * remove bogus debian/dirs.
-
   * Initial sidux version
 
- -- Joaquim Boura <x-un-i@sidux.com>  Sat,  2 Dec 2006 00:17:58 +0100
+  [ Stefan Lippers-Hollmann ]
+  * tag and upload.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue,  5 Dec 2006 22:32:05 +0100
 
 kanotix-menu (0.1.6) unstable; urgency=low
 
