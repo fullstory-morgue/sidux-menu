@@ -8,6 +8,5 @@ Standards-Version: 3.7.2
 Package: sidux-menu
 Architecture: all
 Depends: ${shlibs:Depends}
-Conflicts: kanotix-graphics, kanotix-menu
 Description: Menu skeletons for the sidux menu
  Menu structure and icons for the XDG sidux menu.
